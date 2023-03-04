@@ -1,0 +1,2 @@
+# firstrepo
+Kickstarting on AI 
